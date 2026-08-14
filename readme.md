@@ -20,9 +20,9 @@ c++语法入门程序文件夹。2026-3-16开始学习cpp语法，实际上就�
 如名，cf上做的题目，但是由于时间问题我几乎参加不了正式比赛，另外我的英文水平不支持我直接做题，所以几乎没做。
 - just-wander<br>
 如名，在校内课程 **python程序设计** 上课期间一些代码同步CPP实现。
-- learing-dairy<br>
+- dairy<br>
 markdown文件，用来记录学习路径和心得体会，截至 ***2026-4-13*** 只写了一篇，原因是这一篇写了我8h，不知道时间都花在哪了。但是 ***4.13*** 这一周可能会扩充2-3篇。***现在是5.27，我承认写markdown太浪费时间了***
-- learning-text <br>
+- docs <br>
 gpt生成的学习文档，实话实说，很长，但是我觉得***非常非常好用***，十分推荐大家下载阅读！！！
 - leetcode && luogu <br>
 如名，力扣和洛谷做过的题目。 
@@ -32,8 +32,8 @@ gpt生成的学习文档，实话实说，很长，但是我觉得***非常非�
 单调栈和单调队列的一些模板
 - past-papers<br>
 TongJi University 计算机学院转专业历年真题。2025-5 && 2025-9 尤其困难
-- STL-learning && string-learning<br>
-在学习STL和string的时候，由浅入深的几道题，深化了对STL和string的记忆
+- STL && string<br>
+在学习 STL 和 string 的时候，由浅入深的几道题，深化了对 STL 和 string 的记忆
 - read-pandas <br>
 学校机试要用这个，和DEV C++师出同源
 
